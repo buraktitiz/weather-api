@@ -1,6 +1,6 @@
 import Photo from './Photo'
 
-function Background(background) {
+function Background({background}) {
     return (
     <div className="background">
         <div className="overlay"></div>
