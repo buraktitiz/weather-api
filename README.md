@@ -1,19 +1,19 @@
 ![Weather-api photos](https://github.com/buraktitiz/weather-api/blob/main/src/Pictures/Weather-api.gif)
 ### Uygulama Hakkında Bilgiler
 
-**Herhangi bir veri girilmediği veya yanlış veri girildiği zaman ekranda Gökkuşağı fotoğrafı gösterilmektedir.
+Herhangi bir veri girilmediği veya yanlış veri girildiği zaman ekranda Gökkuşağı fotoğrafı gösterilmektedir.
 
 Girilen il veya ilçelerin hava durumlarının arkaplanda fotoğraflarının ve ön planda da bilgilerin girildiği gösterilmektedir.
 
-Sadece şehirlerin değil ilçelerin de verileri ekranda gösterilmektedir. Ayrıca girilen şehir veya ilçenin hangi ülkeye ait olduğu da yanında yazmaktadır.**
+Sadece şehirlerin değil ilçelerin de verileri ekranda gösterilmektedir. Ayrıca girilen şehir veya ilçenin hangi ülkeye ait olduğu da yanında yazmaktadır.
 
 ### Information About the Application
 
-**When no data is entered or incorrect data is entered, a Rainbow photo is shown on the screen.
+When no data is entered or incorrect data is entered, a Rainbow photo is shown on the screen.
 
 It is shown that the weather conditions of the entered provinces or districts are photographed in the background and information is entered in the foreground.
 
-The data of not only the cities but also the districts are shown on the screen. In addition, it is written next to which country the entered city or district belongs to.**
+The data of not only the cities but also the districts are shown on the screen. In addition, it is written next to which country the entered city or district belongs to.
 
 # Getting Started with Create React App
 
